@@ -25,7 +25,6 @@ Allows you to search for files by their inner markdown title (i.e: the first H1 
 
 Lets you search by markdown titles like the "Open zettel" command above, but inserts a link to the file instead of opening it.
 
-## Contributors
+## Usage
+Ensure that links are preserved by enabling `Automatically update internal links` found under 'Files & Links' near the top.
 
-- [pauloday](https://github.com/pauloday)
-- [quarterdane](https://github.com/quarterdane)
