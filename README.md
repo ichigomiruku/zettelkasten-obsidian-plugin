@@ -1,4 +1,5 @@
-# Luhmann
+# Zettelkasten
+A continuation of Luhmann for Obsidian
 
 Commands for handling a zettelkasten with Luhmann-style IDs (e.g: 12a56g) as filenames
 
