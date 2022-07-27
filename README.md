@@ -3,6 +3,8 @@ A continuation of Luhmann for Obsidian
 
 Commands for handling a zettelkasten with Luhmann-style IDs (e.g: 12a56g) as filenames
 
+As it stands I believe the in-built features of Obsidian are enough to create zettelkasten-style notes by using links. The ID's generated are useful with an analog setup but with a digital system like Obsidian, many of the benefits for such a system are moot. 
+
 ## Commands
 
 ### Create child notes
